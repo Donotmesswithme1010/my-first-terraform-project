@@ -1,0 +1,1 @@
+variable "Con_var" {}
